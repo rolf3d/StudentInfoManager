@@ -42,6 +42,7 @@ namespace Sandbox
             Console.WriteLine(sInfo.GetAverageForStudent(338));
             Console.WriteLine(sInfo.GetAverageForStudent(92));
             Console.WriteLine(sInfo.GetAverageForStudent(120));
+            Console.WriteLine(sInfo.GetStudentCount());
             Console.WriteLine(sInfo.GetTotalAverage());
 
             // The LAST line of code should be ABOVE this line
